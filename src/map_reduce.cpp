@@ -1,5 +1,6 @@
 //---------------------------------------------------------------------------
 #include <fstream> //  открываем, читаем файл
+#include <thread>  // создаём нити
 #include <string>
 #include <sstream>
 #include <iostream>
