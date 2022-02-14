@@ -1,0 +1,1 @@
+# otus_cpp_11_map_reduce
